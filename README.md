@@ -5,6 +5,7 @@ Before transitioning to development, I spent almost 4 years in game development 
 
 I am open to receiving cryptocurrency as a form of salary payment.
 
-Contact me on telegram: @letterthing
+**My tech stack**: Go | Node.js | PostgreSQL / Mongo | gRPC | k8s
 
-My tech stach: Go | Node.js | PostgreSQL / Mongo | gRPC | k8s
+**Contact** me on telegram: **@letterthing**
+More details about my work experience: https://www.linkedin.com/in/slava-v/
