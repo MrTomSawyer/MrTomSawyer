@@ -8,4 +8,5 @@ I am open to receiving cryptocurrency as a form of salary payment.
 **My tech stack**: Go | Node.js | PostgreSQL / Mongo | gRPC | k8s
 
 **Contact** me on telegram: **@letterthing**
+
 More details about my work experience: https://www.linkedin.com/in/slava-v/
